@@ -15,7 +15,7 @@
     - Lập trình hướng đối tượng (class).
     - con trỏ, cấp phát động.
   - 3 . DEMO:
-    - link youtube:
+    - link youtube:https://youtu.be/VOxin8bIp44
 ## III. CÁCH CÀI ĐẶT VÀ CHẠY GAME
   - Bước 1: tải Project.
     - CÁCH 1: Trên link Github, nhấn Code => Download file ZIP, hoặc nhấn download file này ==> [ZIP](https://github.com/21020771QuanTrungKien/FlappyCow-21020771/archive/refs/heads/master.zip).
