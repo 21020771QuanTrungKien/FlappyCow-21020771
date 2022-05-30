@@ -1,4 +1,7 @@
 # FLAPPYCOW-21020771
+  - Họ và tên: Quan Trung Kiên
+  - Mã sinh viên: 21020771
+  - nhóm thực hành: 8
 ## I. GIỚI THIỆU
   - 1 . Game lấy cảm hứng từ chú bò sữa có cánh và trò flappy bird - game Việt nổi tiếng do Nguyễn Hà Đông phát triển năm 2013.
   - 2 . Game được tạo bằng ngôn ngữ c++ và thư viện đồ họa SDL2
