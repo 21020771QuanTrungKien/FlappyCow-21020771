@@ -26,6 +26,7 @@
   - Bước 2: cài đặt.
     - CÁCH 1: chọn file Debug rồi nhấn vào file FlappyCow.exe là có thể chơi game luôn.
     - CÁCH 2: nếu muốn debug lại game thì chọn FlappyBird.sln(visual studio) ta chọn debug dưới dạng x86 rồi ta nhấn f5 hoặc tổ hợp ctrl+f5 để Debug là có thể chơi game. (không cần cài đặt SDL2, SDL_Image, SDL_TTF và SDL_Mixer vì các tệp .dll đã có trong file Debug)
+  - Lưu ý: phải có [Visual studio](https://visualstudio.microsoft.com/fr/vs/)
 ## IV. KẾT LUẬN
   - Do là dự án game đầu tiên nên em còn bí ý tưởng còn phải tham khảo một số video hướng dẫn trên youtube và còn nhiều sai xót, code chưa được clean, mong nhận được sự góp ý của các thầy và mọi người. Hướng phát triển game tiếp theo sẽ là:
       - có tab pause để tạm dừng trò chơi.
